@@ -1,0 +1,436 @@
+﻿Rank,City,Population
+1,Denver,715878
+2,Colorado Springs,471686
+3,Aurora,379434
+4,Fort Collins,166069
+5,Lakewood,155733
+6,Thornton,144186
+7,Arvada,120229
+8,Westminster,114832
+9,Pueblo,111776
+10,Centennial,111331
+11,Boulder,108777
+12,Greeley,107445
+13,Highlands Ranch,107017
+14,Longmont,95864
+15,Loveland,81774
+16,Broomfield,69444
+17,Castle Rock,65176
+18,Grand Junction,62218
+19,Commerce City,55891
+20,Parker,55460
+21,Littleton,46208
+22,Northglenn,39201
+23,Security-Widefield,38645
+24,Brighton,38355
+25,Englewood,34840
+26,Dakota Ridge,34655
+27,Ken Caryl,33815
+28,Pueblo West,32842
+29,Wheat Ridge,31889
+30,Fountain,30240
+31,Lafayette,27952
+32,Erie,27157
+33,Columbine,25892
+34,Windsor,23679
+35,Evans,22128
+36,Four Square Mile,21993
+37,Clifton,20783
+38,Golden,20391
+39,Durango,19413
+40,Montrose,19396
+41,Louisville,19342
+42,Sherrelwood,19082
+43,Cimarron Hills,18981
+44,Cañon City,16369
+45,Fort Carson,16243
+46,Welby,15372
+47,Greenwood Village,15100
+48,Sterling,14421
+49,Johnstown,14357
+50,Fruita,14068
+51,Federal Heights,13537
+52,Lone Tree,13381
+53,Superior,13292
+54,Firestone,13165
+55,Black Forest,13103
+56,Steamboat Springs,13048
+57,Cherry Creek,11503
+58,Fort Morgan,11311
+59,Berkley,11299
+60,Castle Pines,10977
+61,Gunbarrel,10494
+62,Frederick,10414
+63,Glenwood Springs,10048
+64,The Pinery,10033
+65,Stonegate,9860
+66,Rifle,9771
+67,Fairmount,9549
+68,Evergreen,9475
+69,Alamosa,9360
+70,Edwards,9347
+71,Derby,9156
+72,Roxborough Park,9004
+73,Craig,8978
+74,Delta,8893
+75,Redlands,8863
+76,Cortez,8729
+77,Wellington,8651
+78,Fort Lupton,8600
+79,Berthoud,8574
+80,Woodmoor,8474
+81,Fruitvale,8352
+82,Applewood,8300
+83,Trinidad,8076
+84,Woodland Park,7943
+85,Milliken,7862
+86,Aspen,7721
+87,Monument,7691
+88,Lamar,7598
+89,Twin Lakes CDP,7552
+90,Gypsum,7049
+91,La Junta,6907
+92,Eagle,6896
+93,Lochbuie,6795
+94,Avon,6711
+95,Cherry Hills Village,6680
+96,Carbondale,6658
+97,Gunnison,6653
+98,Estes Park,6504
+99,Orchard Mesa,6484
+100,Air Force Academy,6368
+101,Gleneagle,6256
+102,Dacono,6167
+103,Sheridan,6072
+104,Shaw Heights,5987
+105,Stratmoor,5960
+106,Eaton,5646
+107,Vail,5614
+108,Severance,5611
+109,Salida,5543
+110,West Pleasant View,5417
+111,Edgewater,5410
+112,Brush,5408
+113,Manitou Springs,5342
+114,Glendale city,5186
+115,Breckenridge,5054
+116,Mead,4978
+117,Dove Valley,4943
+118,New Castle,4877
+119,Battlement Mesa,4870
+120,Meridian,4792
+121,Todd Creek,4635
+122,Silverthorne,4610
+123,Castle Pines Village,4558
+124,El Jebel,4349
+125,Genesee,4099
+126,Niwot,4085
+127,Monte Vista,4072
+128,Basalt,3941
+129,Florence,3913
+130,Rocky Ford,3833
+131,Lincoln Park,3559
+132,Ponderosa Park,3533
+133,Yuma,3500
+134,La Salle,3377
+135,Burlington,3237
+136,Penrose,3185
+137,Orchard City,3164
+138,Silt,3076
+139,Platteville,3017
+140,Strasburg,2987
+141,Walsenburg,2982
+142,Palmer Lake,2946
+143,Buena Vista,2935
+144,Frisco,2928
+145,Acres Green,2888
+146,Meridian Village,2840
+147,Holly Hills,2815
+148,Snowmass Village,2786
+149,Palisade,2783
+150,Meeker,2745
+151,Leadville,2731
+152,Hudson,2691
+153,Cedaredge,2614
+154,Coal Creek CDP,2605
+155,Bennett,2603
+156,Holyoke,2596
+157,Bayfield,2550
+158,Hayden,2452
+159,Park Center,2397
+160,Center,2379
+161,Wray,2377
+162,Rangely,2326
+163,Lyons,2302
+164,Laporte,2299
+165,Las Animas,2286
+166,Granby,2281
+167,Leadville North and Colorado City,2200
+168,Ault,2153
+169,Aristocrat Ranchettes,2080
+170,Akron,2073
+171,Telluride,2059
+172,Timnath,1916
+173,Kersey,1879
+174,Inverness,1863
+175,Idaho Springs,1848
+176,Parachute,1839
+177,Perry Park,1821
+178,Olathe,1800
+179,Stepping Stone,1798
+180,Mountain Village,1776
+181,Keenesburg,1774
+182,Elizabeth,1754
+183,Pagosa Springs,1751
+184,Sierra Ridge,1742
+185,Ordway,1642
+186,Kremmling,1618
+187,Loma,1571
+188,Paonia,1528
+189,Del Norte,1509
+190,Columbine Valley,1498
+191,Nederland,1465
+192,Ignacio,1411
+193,Gilcrest and Springfield,1381
+194,Indian Hills,1363
+195,Pierce,1352
+196,Mancos,1349
+197,Byers,1338
+198,Crested Butte,1335
+199,Fraser,1304
+200,Sanford,1260
+201,Julesburg,1246
+202,Aetna Estates,1231
+203,Hotchkiss,1230
+204,Georgetown,1205
+205,Wiggins,1170
+206,Limon,1161
+207,Minturn,1149
+208,Ridgway,1142
+209,Towaoc,1140
+210,Fowler,1139
+211,Lazy Acres,1071
+212,Log Lane Village,1057
+213,Mount Crested Butte,1050
+214,Ouray,1046
+215,Aspen Park,1045
+216,Poncha Springs,1041
+217,Manassa,1039
+218,Dolores,1017
+219,Ellicott,1012
+220,Alamosa East,987
+221,Cripple Creek,975
+222,Bow Mar,969
+223,Dillon,956
+224,Kittredge,954
+225,Dotsero,950
+226,Cascade-Chipita Park,943
+227,Cheyenne Wells,930
+228,Blue River,918
+229,La Veta,916
+230,Hot Sulphur Springs,890
+231,La Jara,880
+232,Winter Park,864
+233,Swink and Floyd Hill,824
+234,Haxtun,804
+235,Blende,802
+236,Upper Bear Creek and Keystone,799
+237,Holly,793
+238,Paragon Estates,785
+239,Eads,780
+240,Oak Creek,778
+241,Pine Brook Hill,776
+242,Howard,769
+243,Grand View Estates,760
+244,Stratton,754
+245,Hugo,749
+246,Watkins,746
+247,Fairplay,737
+248,Antonito,730
+249,Salt Creek,726
+250,Upper Witter Gulch,725
+251,Dove Creek,711
+252,Loghill Village,707
+253,Green Mountain Falls,685
+254,San Luis,665
+255,Kiowa and North Washington,663
+256,Fleming,660
+257,Cattle Creek,653
+258,Foxfield,635
+259,Tabernash,624
+260,Silverton,612
+261,Fort Garland and Nucla,607
+262,Collbran,601
+263,Silver Cliff,598
+264,Red Feather Lakes,591
+265,Avondale,588
+266,Norwood,584
+267,Otis,569
+268,Mountain View,565
+269,Westcliffe,559
+270,Nunn,556
+271,Rockvale and Granada,548
+272,Williamsburg,533
+273,Central City,531
+274,Sterling Ranch,521
+275,Flagler,519
+276,Olney Springs,516
+277,Walden,513
+278,Mulford,512
+279,Beulah Valley,505
+280,Simla,504
+281,De Beque,500
+282,Aguilar,492
+283,Walsh,491
+284,Johnson Village,489
+285,Downieville-Lawson-Dumont,487
+286,St. Ann Highlands,486
+287,Brook Forest and Altona,479
+288,Allenspark and Saguache,464
+289,Calhan and Yampa,463
+290,Deer Trail and Coaldale,462
+291,Crawford,458
+292,Copper Mountain,455
+293,Naturita,451
+294,Victor,449
+295,Sugar City,445
+296,Lake City,438
+297,Manzanola,435
+298,Comanche Creek,426
+299,Blanca,420
+300,St. Mary's,416
+301,Echo Hills,414
+302,Arboles and Empire,410
+303,Morrison,401
+304,North La Junta,382
+305,Louviers,381
+306,El Moro,380
+307,Rollinsville,375
+308,South Fork,369
+309,Kit Carson,363
+310,Placerville,360
+311,Chacra and City of Creede,357
+312,Eldora,352
+313,Wiley,349
+314,Coal Creek,348
+315,Iliff,345
+316,Pine Valley,343
+317,Vineland,339
+318,Eckley,334
+319,Eldorado Springs,325
+320,Briggsdale,323
+321,Red Cliff and Redvale,318
+322,Hillrose,312
+323,Romeo,306
+324,Tall Timber,295
+325,Idledale,292
+326,Alma,290
+327,Crowley,277
+328,Westcreek,273
+329,Merino,272
+330,Gerrard,271
+331,Midland,269
+332,No Name,267
+333,Blue Valley,263
+334,Sugarloaf and Grand Lake,262
+335,Peetz,256
+336,Boone,255
+337,Ovid,252
+338,Jamestown,250
+339,Lazear,245
+340,Grover and Larkspur,244
+341,Nathrop,240
+342,Morgan Heights,227
+343,Jansen and Brookside,224
+344,Elbert,220
+345,Catherine,219
+346,Ophir,218
+347,Marble,217
+348,Franktown,214
+349,Rye,213
+350,Woody Creek,212
+351,Garden City,208
+352,Phippsburg,207
+353,Cheraw and Alpine,202
+354,Southern Ute,199
+355,Gold Hill,195
+356,Weldona,188
+357,Lewis,186
+358,Dinosaur,183
+359,Twin Lakes,182
+360,Silver Plume and Arriba,175
+361,Bonanza Mountain Estates and Mountain Meadows,174
+362,Florissant and Rico,172
+363,La Junta Gardens,168
+364,Crook and Bethune,166
+365,Capulin and Ramah,164
+366,Sedgwick,163
+367,Hasty,161
+368,Atwood,155
+369,Amherst,154
+370,Snyder,152
+371,Montezuma,151
+372,Sunshine,145
+373,Jackson Lake and Trail Side,138
+374,Pitkin,137
+375,San Acacio,135
+376,Brick Center,134
+377,Genoa,131
+378,Starkville,129
+379,East Pleasant View,128
+380,Seven Hills and Divide,127
+381,Portland,126
+382,Hoehne,125
+383,Seibert,119
+384,Orchard,111
+385,Glendale and Vilas,109
+386,Bark Ranch,107
+387,Vona,106
+388,Moffat,104
+389,Sedalia and McClave,103
+390,Maysville,101
+391,"Blue Sky, Black Hawk, and Valmont",98
+392,Pritchett,97
+393,Campo,96
+394,Peoria,91
+395,Somerset,90
+396,Cokedale,87
+397,Segundo,85
+398,Joes,84
+399,Gardner,82
+400,Kirk,81
+401,Rock Creek Park,80
+402,Ward,77
+403,Raymer (New Raymer),76
+404,Branson,75
+405,Paoli,73
+406,Smeltertown,72
+407,Kim and Marvel,71
+408,Sheridan Lake,70
+409,Hartman,69
+410,Hooper and Heeney,65
+411,Padroni,63
+412,Goldfield,62
+413,Haswell,60
+414,Arapahoe,56
+415,McCoy,53
+416,Saddle Ridge and Crisman,51
+417,Cope and Idalia,50
+418,Lynn and Crestone,44
+419,Redstone,43
+420,Colona,42
+421,Two Buttes,41
+422,Sawpit,38
+423,Stonewall Gap,37
+424,Maybell,36
+425,Cotopaxi,34
+426,Hidden Lake,30
+427,Towner,26
+428,Laird,24
+429,Parshall,23
+430,Matheson,21
+431,Conejos and Piedra,18
+432,Weston,16
+433,Cathedral,11
+434,Lakeside,6
+435,Brandon and Bonanza,3
