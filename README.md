@@ -7,7 +7,7 @@
 #### The ipynb file contains information about Data Cleaning and Data Analysis:
 ##### Package Needed: Pandas, Numpy, Fuzzywuzzy.
 
-### Tables:
+### Original Tables:
 ###### lls: It contains all basic information for Pages that has at least one pageview(Google Analytics) does not show Pages that have 0 views. Derived from All Pages in Google Analytics.
 ###### Device: Device that visitors view the Webpage with.
 ###### Source: Source that visitors click to enter Agewise Colorado websites.
